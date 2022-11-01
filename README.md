@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, my name is Artur</h1>
-<h3 align="center">I'm a future front-end developer from Poland</h3>
+<h1 align="left">Hi there 👋, my name is Artur</h1>
+<h3 align="left">I'm a future front-end developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vajhero&label=Profile%20views&color=0e75b6&style=flat" alt="vajhero" /> </p>
 
